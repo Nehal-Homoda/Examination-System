@@ -1,0 +1,31 @@
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\bin\Debug\sqlProject.exe.config
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\bin\Debug\sqlProject.exe
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\bin\Debug\sqlProject.pdb
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.AssemblyReference.cache
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.SuggestedBindingRedirects.cache
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.Form1.resources
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.Properties.Resources.resources
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.GenerateResource.cache
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.CoreCompileInputs.cache
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.exe
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.pdb
+F:\restored 1\ITI 2022\ADO\Entity Framework\sqlProject\sqlProject\obj\Debug\sqlProject.signUp.resources
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.AssemblyReference.cache
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.SuggestedBindingRedirects.cache
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.Form1.resources
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.Properties.Resources.resources
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.signUp.resources
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.GenerateResource.cache
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.CoreCompileInputs.cache
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.exe
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.pdb
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\sqlProject.exe.config
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\sqlProject.exe
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\sqlProject.pdb
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\EntityFramework.dll
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\EntityFramework.SqlServer.dll
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\EntityFramework.xml
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\bin\Debug\EntityFramework.SqlServer.xml
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.csproj.CopyComplete
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.QuestionsExam.resources
+F:\restored 1\ITI 2022\Advanced sql\Our Project\sqlProject\sqlProject\obj\Debug\sqlProject.tasting.resources
